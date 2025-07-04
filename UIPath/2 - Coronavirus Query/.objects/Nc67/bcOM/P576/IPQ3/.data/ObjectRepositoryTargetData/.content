@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2rCzssXJ00W_BnmST2ZMTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/egypt" CVScreenId="dc01582e-81f6-48b2-955c-9bd79a49088c" DesignTimeRectangle="605, 732, 251, 92" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='442,182' parentid='maincounter-wrap' tag='SPAN' /&gt;" Guid="39708a48-5509-4b71-9a4a-c0c44b67fbdc" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Egypt COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc01582e-81f6-48b2-955c-9bd79a49088c" DesignTimeRectangle="291, 665, 879, 65" ElementType="Text" FullSelectorArgument="&lt;webctrl idx='3' parentid='maincounter-wrap' tag='H1' /&gt;" Guid="944546af-cc05-4df4-9d53-c1b8290c66a1" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="498e237173c0d16645300c1375894832.png" xmlns="">0IRxJyHbC0U2VSlI2hpbilQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

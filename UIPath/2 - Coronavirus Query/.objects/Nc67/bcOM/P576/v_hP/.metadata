@@ -1,0 +1,14 @@
+﻿{
+  "Name": "بحث Google‏",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "v_hPK3SJJkuu7vw0XCzaRg",
+  "Reference": "7vPQ3Z1ln0O_nhb-rJwSMw/v_hPK3SJJkuu7vw0XCzaRg",
+  "ParentRef": "7vPQ3Z1ln0O_nhb-rJwSMw/P576SQrQ5UOeE1FqF7l9DQ",
+  "Created": "2025-06-14T10:08:51.6698861Z",
+  "Updated": "2025-06-14T10:08:51.6698861Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
